@@ -74,3 +74,7 @@ Jupyter Notebook
 VS Code
 Git
 GitHub
+
+
+
+Feel free to explore the repository and give it a ⭐ on GitHub.
