@@ -2,10 +2,12 @@
 __pycache__/
 *.pyc
 *.pyo
+backend/app/similarity.pkl
 
 # Virtual Environment
 venv/
 .env
+backend/.env
 
 # Jupyter
 .ipynb_checkpoints/
@@ -22,3 +24,6 @@ node_modules/
 # Build files
 dist/
 build/
+
+# ML model files
+*.pkl
